@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Maheshwari</h1>
 <h3 align="center">Aspiring Electronics and Computer Engineer</h3>
 
-- 🌱 I’m currently learning **Python and Machine learning**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **mayankm1479@gmail.com**
 
