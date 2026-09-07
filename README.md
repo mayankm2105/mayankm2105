@@ -24,9 +24,9 @@
 
 ## 🧑‍🚀 About Me
 
-- 🎓 Aspiring **Electronics and Computer Engineer**
-- 🌱 Currently learning **Web Development**
-- 📊 Exploring **Data Analysis, Machine Learning & AI tools**
+- 🎓 Aspiring **Electronics and Computer Engineer** at TIET, Patiala
+- 🌱 Currently learning **Generative AI**
+- 📊 Exploring **Data Analysis, Web Development & AI tools**
 - ⚡ Believe in "genius, billionaire, playboy, philanthropist" levels of hard work (minus the billionaire part... for now 😄)
 - 📫 Reach me at **mayankm1479@gmail.com**
 - ⚙️ Fun fact: My IDE runs hotter than the Mark 42 suit
