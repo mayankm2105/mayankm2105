@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF4500,100:8B0000&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=I%20Am%20Iron%20Man%20💛🔥&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF4500,100:8B0000&height=220&section=header&text=HELLO%20WORLD&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Welcome%20TO%20MY%20PROFILE%20🔥🔥&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/6wj0hh6.gif" width="200"/>
+  <img src="https://raw.githubusercontent.com/mayankm2105/mayankm2105/main/Ironman%20emote.png" width="200"/>
 </div>
 
 <h1 align="center">🦾 I'M MAYANK MAHESHWARI</h1>
@@ -13,7 +13,7 @@
 <h3 align="center">Aspiring Electronics and Computer Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Aspiring+Electronics+%26+Computer+Engineer;Web+Development+Learner;Data+%26+ML+Enthusiast;Powered+by+Curiosity+%2B+Coffee+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Electronics+%26+Computer+Engineer;Data+Anlysis;Web+Development;Data+%26+AI+Enthusiast;Powered+by+Curiosity+%2B+Coffee+%E2%98%95" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -83,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>&nbsp;
   <a href="mailto:mayankm1479@gmail.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="40" width="40" />
+    <img src="https://raw.githubusercontent.com/mayankm2105/mayankm2105/main/Gmail%20icon.png" alt="Gmail" height="40" width="40" />
   </a>
 </p>
 
